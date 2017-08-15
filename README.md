@@ -1,0 +1,2 @@
+# MMBConfigData
+lucky-word: mmb
